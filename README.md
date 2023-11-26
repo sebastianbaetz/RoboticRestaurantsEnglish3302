@@ -12,7 +12,7 @@ When is a tool more than just a tool, when is does it turn robotic? A “tool”
 
 Humans must work with tools in a restaurant, but in recent times we are now seeing much more proliferation of robots in restaurants. This is the next stage of productivity in a restaurant – human-robot collaboration, which is what I would like to highlight examples of in this blog post. While there is still more development to be done to create more efficient tools (non-automated, like blenders, printers, cooking ranges), I will be focusing on the new era of increasing restaurant productivity - robots. I will explore a few examples, and finish with a few things we must keep in mind as we go forward with the next step of the restaurant industry.
 
-# Front of house
+# Front-of-house
 When you walk into a restaurant, you start making judgements immediately. A well-refined restaurant knows this and plays into it. Some restaurants are also redefining what we expect, to differentiate themselves and grow their customer base.
 
 ## Ordering Kiosks
@@ -23,7 +23,7 @@ Also mentioned by the article is the ability for guests who are not as comfortab
 To create an excellent customer experience, you must know what your customer wants and adapt to them. Self-service kiosks are desirable to Gen-Z, and their practicality can be appreciated by many more groups of people.
 
 
-## Self-service, a step further
+## Self-Service, A Step Further
 One of my girlfriend and I’s favorite restaurants to eat at when I’m back in my hometown of San Antonio, Texas is Kura Revolving Sushi Bar, a popular chain of conveyer-belt sushi. It is not the best sushi I’ve ever had, but it’s still fantastic, and has a fascinating layout. A human host leads you to your seats. You place your drink order on a tablet screen which is in front of every single seat (as well as a large conveyer belt which wraps around the entire restaurant) and a robot navigates the crowded sushi bar and brings it straight to where you are sitting, with fun, upbeat music playing. As for the food, the conveyer belt right in front of you has many unique options from sliced watermelon to rainbow rolls, to cheesecake. If you want something that is out of stock by the time it reaches you, or something different altogether, you can place an order for it on the tablet screen in front of you which has well documented pictures and ingredients lists, and it comes straight out to where you are sitting on a second, elevated conveyer belt that spans each row of seats. When you finish a plate, you deposit it into a plate slot right in front of you which tracks how many plates you have ordered, and charges you accordingly. Turn your head 90 degrees, and you can see a line of diligently working sushi chefs in the back keeping up with the intensely busy restaurant’s conveyer belt and custom orders.
 
 Clearly, in addition to the on-demand food options, there is something to be said about the entertainment value of the system itself. Every time we go, there are tons of families. In the peer-reviewed article “Understanding the robotic restaurant experience: A multiple case study” through an analysis of TripAdvisor reviews, we find that a large number of people come to these restaurants to entertain children, or for the entertainment value of the robots themselves. I am somewhat disinterested in robotics, yet the robot assistance at Kura is extremely fascinating and adds a fun element to a nice dinner.
@@ -42,13 +42,13 @@ Miso Robotics has developed “Flippy” a robot that can manage multiple differ
 Pessimists and skeptics, rest assured, jobs are safe, for now. From what I have gathered from my time in restaurants, as well as networking with people around the industry, the fryers rarely have a dedicated employee at this class and quality of fast-food restaurant. It is the duty of people in other positions in the restaurant to own the position on top of their expected duties. When restaurants are running as lean as possible, this doesn’t save enough labor to make somebody redundant and thus Flippy shouldn’t be an issue for job replacement.
 
 
-## Cooking Robot
+## Stir-Fry Robot
 Spyce, as mentioned in “Understanding the robotic experience” is another fascinating example with a similar situation as the previous example. A key difference is that it opened as a robot restaurant, and not downsized using robots. At Spyce in Boston, MA, humans prepare foods like vegetables and proteins and pass them to an active stir-frying robot in a visible kitchen, all for the guests to watch. A human then passes the bowl of food back to the guest once it is finished cooking. By using robots for some of the process, they were able to limit the prices to be slightly under $8 per bowl. This example is more robot dominant which makes it unique and gives it strong entertainment value. New concepts in the restaurant world like Spyce are exciting and hopefully we see more competitors to them in the coming years.
 
 # Going Forward
 Robots are starting to gain headwind in the restaurant industry and provide for a novel way to provide value to restaurant patrons. Some of the concerns we need to keep in mind going forward are its standards for health and cleanliness and its ability to effectively do the job. Let’s examine these issues.
 
-## Health and cleanliness
+## Health And Cleanliness
 The age-old situation of a guest finding a hair in their food is a valid concern when staffing humans in food-handling positions, but when staffing robots on these positions, the concern becomes a bit more profound. A major concern I have with robots is that they have many small parts. If a screw were to fall into a guest’s food, that opens the restaurant to a major liability risk, and an unpleasant experience for the guest. A major advantage to Flippy’s design is that the employee must package the output, and intentional or not, gives a human the opportunity to inspect it before giving it to the guest. Spyce as well is designed in such a way that the chances of a foreign object unintentionally landing in someone’s food are nearly impossible, although it does not get a final inspection.
 
 This does not over the potential issues in automated cooking. Allergens, cross-contamination, and temperature fail-safes are design decisions needed when engineering these robots to ensure robotic kitchens will be safe and accessible. 
