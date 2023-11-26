@@ -1,4 +1,4 @@
-# RoboticRestaurantsEnglish3302
+# Robotic Restaurants
 
 For Christmas this year, my girlfriend is getting me a Vitamix blender. In case you don’t know, Vitamix is a top-of-the-line brand known for being extremely durable and long-lasting – I absolutely hate unnecessary waste, and thus try to buy things known to last a long time. 
 
