@@ -1,8 +1,8 @@
 # RoboticRestaurantsEnglish3302
 
-     For Christmas this year, my girlfriend is getting me a Vitamix blender. In case you don’t know, Vitamix is a top-of-the-line brand known for being extremely durable and long-lasting – I absolutely hate unnecessary waste, and thus try to buy things known to last a long time. 
+ For Christmas this year, my girlfriend is getting me a Vitamix blender. In case you don’t know, Vitamix is a top-of-the-line brand known for being extremely durable and long-lasting – I absolutely hate unnecessary waste, and thus try to buy things known to last a long time. 
 
-     Every so often though, I come across a moment of doubt – why do I need a Vitamix? I have a fantastic food processor and great knife skills already; the blender will only create a slightly different product than what’s already in my arsenal of tools. The food processor can blend potentially 75% as smooth. But why do I need a food processor if I have a knife? The knife can mince, with a generous estimate, maybe 50% as smooth as a food processor. Why not use my hands? The list goes on and on…
+Every so often though, I come across a moment of doubt – why do I need a Vitamix? I have a fantastic food processor and great knife skills already; the blender will only create a slightly different product than what’s already in my arsenal of tools. The food processor can blend potentially 75% as smooth. But why do I need a food processor if I have a knife? The knife can mince, with a generous estimate, maybe 50% as smooth as a food processor. Why not use my hands? The list goes on and on…
 
      I’m Sebastian. I’ve spent a long time working in just about any role you could think of in commercial kitchens, and even longer exploring the expansive world of cooking in a home kitchen. Make no mistake, I am not a chef, but I consider myself a skillful cook. Recently, I’ve also worked almost two years between two drastically different companies as a software engineer and see many interesting problems in the intersection of the two disciplines. For instance, how can we leverage new tools and technologies to improve the restaurant industry and create new concepts to excite people about the future of the food we eat.
 
@@ -37,7 +37,7 @@
 # Back-of-house
      Jeremy Allen White in the series The Bear does a fantastic job representing the stress and pressure in the kitchen. As a chef in charge of running the family’s sandwich shop, he is tasked with getting the restaurant back to profitability, while dealing with massive business debt, flaky employees, and many other small-business realities that have unforgiving room for error. What goes on behind the counter can be hectic in slow times and beyond chaotic when it’s busy. Some robots have been created to assist with that. 
 
-## Fryer robot
+## Fryer Robot
      Miso Robotics has developed “Flippy” a robot that can manage multiple different items in a fryer station. According to an article published in Today.com titled _White Castle is rolling out fry cook robots across the US_, updated as recently as October 2023, White Castle is implementing these robots to manage their fryer stations at 100 restaurants. So far 17 robots have been installed, and they are seeing increases in quality and consistency of the fried products. 
 
      Pessimists, rest assured, jobs are safe, for now. From what I have gathered from my time in restaurants, as well as networking with people around the industry, the fryers rarely have a dedicated employee at this class and quality of fast-food restaurant. It is the duty of people in other positions in the restaurant to own the position on top of their expected duties. When restaurants are running as lean as possible, this doesn’t save enough labor to make somebody redundant and thus Flippy shouldn’t be an issue for job replacement.
